@@ -22,5 +22,5 @@ This Django project demonstrates JWT (JSON Web Token) Authentication with email 
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your_username/django-jwt-authentication.git](https://github.com/Shahid-Sheimi/JWT-Authentication-in-Django-with-Python.git)
+   git clone https://github.com/Shahid-Sheimi/JWT-Authentication-in-Django-with-Python.git
    cd JWT-Authentication-in-Django-with-Python
