@@ -15,7 +15,7 @@ This Django project demonstrates JWT (JSON Web Token) Authentication with email 
 - Python (>=3.6)
 - Django (>=2.2)
 - Django REST Framework (>=3.12)
-- Other dependencies listed in `requirements.txt`
+- Other dependencies as per  `requirements`
 
 ## Installation
 
